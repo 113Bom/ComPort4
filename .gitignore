@@ -1,2 +1,8 @@
+**/dcu
+**/examples
+**/help
+**/source
+!Cport.*
 *.dcu
 *.~*
+
